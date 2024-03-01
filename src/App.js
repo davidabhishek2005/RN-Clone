@@ -1,23 +1,22 @@
-import logo from './logo.svg';
+
 import './App.css';
 
+//import rnclone from './Components/Rnclone/rnclone';
+import Rnclone from './Components/Rnclone/rnclone';
+import About from './Components/Rnclone/about';
+import Contact from './Components/Rnclone/contact';
+import Event from './Components/Rnclone/events';
+import Sponsor from './Components/Rnclone/sponsor';
+import Ourteam from './Components/Rnclone/ourteam';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App">     
+     <Rnclone/>
+     <About/>
+     <Event/>
+     <Ourteam/>
+     <Sponsor/>
+     <Contact/>
     </div>
   );
 }
