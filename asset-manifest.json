@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/RN-Clone/static/css/main.df14b473.css",
+    "main.js": "/RN-Clone/static/js/main.1ded1c98.js",
+    "static/js/453.dcad85ed.chunk.js": "/RN-Clone/static/js/453.dcad85ed.chunk.js",
+    "static/media/President.jpg": "/RN-Clone/static/media/President.36826340e669debd7e71.jpg",
+    "static/media/mentor_spo.jpg": "/RN-Clone/static/media/mentor_spo.7590a3c64e79bc3299d9.jpg",
+    "static/media/hoverRobotix_spo.jpg": "/RN-Clone/static/media/hoverRobotix_spo.d0d2795c5f41e4f2589f.jpg",
+    "static/media/icon.png": "/RN-Clone/static/media/icon.e6961a925268902e8a5f.png",
+    "static/media/treasurer_publicity head.jpg": "/RN-Clone/static/media/treasurer_publicity head.a606f5ecf5b3647b931c.jpg",
+    "static/media/generalSecretary_design head.jpg": "/RN-Clone/static/media/generalSecretary_design head.9907614ad18730f214f7.jpg",
+    "static/media/Vice_president.png": "/RN-Clone/static/media/Vice_president.3c36810c484607cc9514.png",
+    "static/media/tech head.jpg": "/RN-Clone/static/media/tech head.2a0afb91f801b0384f51.jpg",
+    "static/media/wiley_spo.jpg": "/RN-Clone/static/media/wiley_spo.42c00e299b27593515ad.jpg",
+    "static/media/events_5.jpg": "/RN-Clone/static/media/events_5.f39c1710553a3155d2fd.jpg",
+    "static/media/events_4.jpg": "/RN-Clone/static/media/events_4.b9d400eccc5d2723121b.jpg",
+    "static/media/event_logistics head.jpeg": "/RN-Clone/static/media/event_logistics head.17073932e941e8c401d8.jpeg",
+    "static/media/events_3.jpg": "/RN-Clone/static/media/events_3.f3d1fccb68be713bc82c.jpg",
+    "static/media/rn_background.jpg": "/RN-Clone/static/media/rn_background.2926f3c0eee16ce4dc5d.jpg",
+    "static/media/sankalp_festhead.jpg": "/RN-Clone/static/media/sankalp_festhead.26ae5c448bd9d3e5f407.jpg",
+    "static/media/events_2.jpg": "/RN-Clone/static/media/events_2.986c44dfcfc77fabe0e7.jpg",
+    "static/media/events_6.jpg": "/RN-Clone/static/media/events_6.0d2ad4e786d0659282c4.jpg",
+    "static/media/events_1.jpg": "/RN-Clone/static/media/events_1.2411a1e78ceedfae2234.jpg",
+    "static/media/covenor.jpg": "/RN-Clone/static/media/covenor.08d2f9b735f50ea04232.jpg",
+    "static/media/redfm_spo.jpeg": "/RN-Clone/static/media/redfm_spo.6002ca9d8bf9cb0374f0.jpeg",
+    "static/media/pizza_spo.jpeg": "/RN-Clone/static/media/pizza_spo.d4b693607274796c2252.jpeg",
+    "static/media/logiczap_spo.jpeg": "/RN-Clone/static/media/logiczap_spo.9c50e3e2777f2bde2210.jpeg",
+    "static/media/gg_spo.jpeg": "/RN-Clone/static/media/gg_spo.419ad0b1993e09b7e080.jpeg",
+    "static/media/wildstone_spo.jpeg": "/RN-Clone/static/media/wildstone_spo.1c87940b1e6163ac095a.jpeg",
+    "static/media/faculty_advisor.jpeg": "/RN-Clone/static/media/faculty_advisor.906ee0ce02f45575cf8c.jpeg",
+    "index.html": "/RN-Clone/index.html",
+    "main.df14b473.css.map": "/RN-Clone/static/css/main.df14b473.css.map",
+    "main.1ded1c98.js.map": "/RN-Clone/static/js/main.1ded1c98.js.map",
+    "453.dcad85ed.chunk.js.map": "/RN-Clone/static/js/453.dcad85ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df14b473.css",
+    "static/js/main.1ded1c98.js"
+  ]
+}
