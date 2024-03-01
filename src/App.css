@@ -85,8 +85,8 @@ a{
 }
 
 .background_img{
+  
   height:100vh;
-  width:100vw;
   background-image:url("./rn_background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
