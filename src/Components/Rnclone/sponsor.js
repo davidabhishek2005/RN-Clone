@@ -13,14 +13,14 @@ const sponsor = () => {
     <div className='sponsor' id="spoid">
         <h1 className='text'>SPONSORS</h1>
         <div className='spo'>
-            <img  className='spoimg' src={wildstone}></img>
-            <img   className='spoimg' src={wiley}></img>
-            <img    className='spoimg' src={geeks}></img>
-            <img   className='spoimg' src={redfm}></img>
-            <img   className='spoimg' src={mentor}></img>
-            <img   className='spoimg' src={hoverRobot}></img>
-            <img   className='spoimg' src={pizza}></img>
-            <img    className='spoimg' src={logiczap}></img>
+            <a href="https://www.wildstone.in/"> <img  className='spoimg' src={wildstone}></img> </a>
+            <a href="https://www.wiley.com/">  <img   className='spoimg' src={wiley}></img></a>
+            <a href="https://www.geeksforgeeks.org/"> <img    className='spoimg' src={geeks}></img> </a>
+            <a href="https://www.redfmindia.in/" ><img   className='spoimg' src={redfm}></img></a>
+            <a href="https://www.mentor.in/"> <img   className='spoimg' src={mentor}></img></a>
+            <a href="https://hoverrobotix.com/" > <img   className='spoimg' src={hoverRobot}></img></a>
+            <a href="https://www.pizzahut.co.in/" ><img   className='spoimg' src={pizza}></img></a>
+            <a  href="https://www.logiczapnextgen.com/" ><img    className='spoimg' src={logiczap}></img></a>
         </div>
     </div>
   );
