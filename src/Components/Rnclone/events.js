@@ -14,6 +14,10 @@ const events = () => {
           <img className='eventimg' src={event1}></img>
           <img  className='eventimg' src={event2}></img>
           <img className='eventimg' src={event3}></img>
+        </div>
+        <br></br>
+        <br></br>
+        <div className='event'>
           <img  className='eventimg' src={event4}></img>
           <img className='eventimg' src= {event5}></img>
           <img className='eventimg' src={event6}></img>
@@ -25,3 +29,4 @@ const events = () => {
 }
 
 export default events
+

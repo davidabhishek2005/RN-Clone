@@ -81,14 +81,12 @@ a{
 }
 .text1{
   color:aqua;
-
 }
 
 .background_img{
   width: 100%;
   height:100vh;
-  background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("./rn_background.jpg");
-  /* background-image:url("./rn_background.jpg"); */
+  background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("./rn_background.jpg"); 
   background-repeat: no-repeat;
   background-size: cover;
   background-position : 50%;

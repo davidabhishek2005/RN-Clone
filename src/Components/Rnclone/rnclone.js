@@ -1,19 +1,12 @@
  import React from 'react'
 import icon from  "./Assets/icon.png";
-import background from "./Assets/rn_background.jpg";
+
 
 
 const Rnclone = () => {
     return (
             <div className='rnhead'>
-             {/* <div className='hambox'>
-                <div className='img_icon'><img className='icon' src= {icon} ></img></div>
-                <div> 
-                  <div className='menu'></div>
-                  <div className='menu'></div>
-                  <div className='menu'></div>
-                </div>
-             </div> */}
+             
                 <nav className='nav-container'> 
                              
                     <ul className='ul'>
