@@ -13,19 +13,46 @@ const ourteam = () => {
   return (
     <div className='ourteam' id="teamid">
         <h1 className='text'>Our Team</h1>
-        <div>
+        <div className='facultyText'>
             <img  className="img4" src={faculty}></img>
-            <h2 className='text'>Faculty Advisor</h2>
+            <h2 className='text4'>Dr. Tushar Kanti Bera</h2>
+            <h3 className='text4'>Faculty Advisor</h3>
+
         </div>
         <div className='team'>
-          <img className='img4' src={president}></img>
-          <img className='img4' src={Vicepresident}></img>
-          <img  className='img4' src={treasurer}></img>
-          <img  className='img4' src={logistichead}></img>
-          <img  className='img4' src={generalsecretary}></img>
-          <img className='img4' src={techhead}></img>
-          <img  className='img4' src={convenor}></img>
-          <img  className='img4' src={sankalp}></img>
+          <div><img className='img4' src={president}></img>
+              <h2 className='text4'>Dhiraj Kumar</h2>
+              <h3 className='text4'>President</h3>
+          </div>
+          <div><img className='img4' src={Vicepresident}></img>
+              <h2 className='text4'>Akshay A Bhaiju</h2>
+              <h3 className='text4'>Vice President & Sponsor Head</h3>
+          </div>
+          <div><img  className='img4' src={treasurer}></img>
+              <h2 className='text4'> Kalyan Choubey</h2>
+              <h3 className='text4'>Treasurer & Pubilicity Head </h3>
+          </div>
+          <div><img  className='img4' src={logistichead}></img>
+              <h2 className='text4'>Sumit Kumar</h2>
+              <h3 className='text4'>Event & Logistics Head</h3>
+
+          </div>
+          <div><img  className='img4' src={generalsecretary}></img>
+              <h2 className='text4'>Priyanshu Burman</h2>
+              <h3 className='text4'>General Secretary & Design Head</h3>
+          </div>
+          <div><img className='img4' src={techhead}></img>
+              <h2 className='text4'>Amool Khudia</h2>
+              <h3 className='text4'>Tech Head</h3>
+          </div>
+          <div><img  className='img4' src={convenor}></img>
+              <h2 className='text4'>Ashish Raj</h2>
+              <h3 className='text4'>Convenor</h3>
+          </div>
+          <div><img  className='img4' src={sankalp}></img>
+               <h2 className='text4'>Sankalp Mishra</h2>
+               <h3 className='text4'>Fest Head</h3>
+          </div>
         </div>
     </div>
   );

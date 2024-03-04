@@ -11,7 +11,7 @@ import redfm from './Assets/redfm_spo.jpeg';
 const sponsor = () => {
   return (
     <div className='sponsor' id="spoid">
-        <h1 className='text'>SPONSORS</h1>
+        <h1 className='text' id="text" >SPONSORS</h1>
         <div className='spo'>
             <a href="https://www.wildstone.in/"> <img  className='spoimg' src={wildstone}></img> </a>
             <a href="https://www.wiley.com/">  <img   className='spoimg' src={wiley}></img></a>
