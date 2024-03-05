@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RN-Clone/static/css/main.2298ff41.css",
+    "main.css": "/RN-Clone/static/css/main.89734e0a.css",
     "main.js": "/RN-Clone/static/js/main.7a50717a.js",
     "static/js/453.dcad85ed.chunk.js": "/RN-Clone/static/js/453.dcad85ed.chunk.js",
     "static/media/President.jpg": "/RN-Clone/static/media/President.36826340e669debd7e71.jpg",
@@ -30,12 +30,12 @@
     "static/media/faculty_advisor.jpeg": "/RN-Clone/static/media/faculty_advisor.906ee0ce02f45575cf8c.jpeg",
     "index.html": "/RN-Clone/index.html",
     "static/media/menu_icon.svg": "/RN-Clone/static/media/menu_icon.518565d67a6f5d18bac1cecbc6d9dc80.svg",
-    "main.2298ff41.css.map": "/RN-Clone/static/css/main.2298ff41.css.map",
+    "main.89734e0a.css.map": "/RN-Clone/static/css/main.89734e0a.css.map",
     "main.7a50717a.js.map": "/RN-Clone/static/js/main.7a50717a.js.map",
     "453.dcad85ed.chunk.js.map": "/RN-Clone/static/js/453.dcad85ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2298ff41.css",
+    "static/css/main.89734e0a.css",
     "static/js/main.7a50717a.js"
   ]
 }
