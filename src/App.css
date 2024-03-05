@@ -325,6 +325,7 @@ button:hover{
 
    input{
     width:111%;
+    max-width: 350px;
    }
 
    .mediaNav {
@@ -338,6 +339,13 @@ button:hover{
    }
    a{
     text-decoration: none;
+   }
+   .team1{
+    height:310px;
+    font-size:1rem;
+    display: flex;
+    flex-direction:column ;
+    align-items: start;
    }
 
 

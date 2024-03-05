@@ -20,36 +20,36 @@ const ourteam = () => {
 
         </div>
         <div className='team'>
-          <div><img className='img4' src={president}></img>
+          <div className='team1'><img className='img4' src={president}></img>
               <h2 className='text4'>Dhiraj Kumar</h2>
               <h3 className='text4'>President</h3>
           </div>
-          <div><img className='img4' src={Vicepresident}></img>
+          <div className='team1'><img className='img4' src={Vicepresident}></img>
               <h2 className='text4'>Akshay A Bhaiju</h2>
               <h3 className='text4'>Vice President & Sponsor Head</h3>
           </div>
-          <div><img  className='img4' src={treasurer}></img>
+          <div className='team1'><img  className='img4' src={treasurer}></img>
               <h2 className='text4'> Kalyan Choubey</h2>
               <h3 className='text4'>Treasurer & Pubilicity Head </h3>
           </div>
-          <div><img  className='img4' src={logistichead}></img>
+          <div className='team1'><img  className='img4' src={logistichead}></img>
               <h2 className='text4'>Sumit Kumar</h2>
               <h3 className='text4'>Event & Logistics Head</h3>
 
           </div>
-          <div><img  className='img4' src={generalsecretary}></img>
+          <div className='team1'><img  className='img4' src={generalsecretary}></img>
               <h2 className='text4'>Priyanshu Burman</h2>
               <h3 className='text4'>General Secretary & Design Head</h3>
           </div>
-          <div><img className='img4' src={techhead}></img>
+          <div className='team1'><img className='img4' src={techhead}></img>
               <h2 className='text4'>Amool Khudia</h2>
               <h3 className='text4'>Tech Head</h3>
           </div>
-          <div><img  className='img4' src={convenor}></img>
+          <div className='team1'><img  className='img4' src={convenor}></img>
               <h2 className='text4'>Ashish Raj</h2>
               <h3 className='text4'>Convenor</h3>
           </div>
-          <div><img  className='img4' src={sankalp}></img>
+          <div className='team1'><img  className='img4' src={sankalp}></img>
                <h2 className='text4'>Sankalp Mishra</h2>
                <h3 className='text4'>Fest Head</h3>
           </div>
