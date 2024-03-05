@@ -47,7 +47,7 @@ const ourteam = () => {
           </div>
           <div className='team1'><img  className='img4' src={convenor}></img>
               <h2 className='text4'>Ashish Raj</h2>
-              <h3 className='text4'>Convenor</h3>
+              <h3 className='text4'>Convenor</h3>  
           </div>
           <div className='team1'><img  className='img4' src={sankalp}></img>
                <h2 className='text4'>Sankalp Mishra</h2>
